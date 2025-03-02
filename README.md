@@ -25,7 +25,7 @@ Este é um projeto simples que desenvolvi durante a participação do *Bootcamp 
    git clone https://github.com/Paolahegel/controle-de-fluxo
    ```
 
-2. Abra pasta em uma IDE (recomendadas para Java):
+2. Abra a pasta do reposítório em uma IDE (recomendadas para Java):
    
     [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white&style=for-the-badge&height=40)](https://www.jetbrains.com/idea/)
     [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?logo=eclipse&logoColor=white&style=for-the-badge&height=40)](https://www.eclipse.org/)
