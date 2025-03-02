@@ -15,7 +15,7 @@ Este é um projeto simples que desenvolvi durante a participação do *Bootcamp 
 ## 📌 Funcionalidades
 - O sistema recebe dois parâmetros via terminal que representarão dois números inteiros.
 - Caso o primeiro parâmetro for MENOR que o segundo você irá obter a quantidade de interações que será impressa no console dos números incrementados.
-- Caso o o primeiro número for MAIOR que o segundo, irá tratar como uma exceção.
+- Caso o primeiro número for MAIOR que o segundo, irá tratar como uma exceção.
 
 ---
 
