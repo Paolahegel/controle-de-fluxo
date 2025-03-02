@@ -34,6 +34,8 @@ Este é um projeto simples que desenvolvi durante a participação do *Bootcamp 
 3. Execute a **Classe Contador**.
 4. Insira os parâmetros solicitados no terminal.
 
+---
+
 ## 💡 Exemplo de Uso
 ```plaintext
 Digite o 1° parâmetro:
