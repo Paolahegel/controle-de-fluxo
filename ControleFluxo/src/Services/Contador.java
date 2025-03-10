@@ -1,8 +1,8 @@
-package Services;
+package services;
 
 import java.util.Scanner;
 
-import Exceptions.ParametrosInvalidosException;
+import exceptions.ParametrosInvalidosException;
 
 public class Contador {
     public static void main(String[] args) {
