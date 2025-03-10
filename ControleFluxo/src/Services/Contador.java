@@ -1,12 +1,10 @@
 package services;
 
 import java.util.Scanner;
-
 import exceptions.ParametrosInvalidosException;
 
 public class Contador {
-    public static void main(String[] args) {
-        
+    public static void main(String[] args) {  
         Scanner terminal = new Scanner(System.in);
 
         System.out.println("Digite o 1° parâmetro:");
@@ -21,13 +19,14 @@ public class Contador {
         }
         terminal.close();
     }
-        static void contar(int parametroUm, int parametroDois) throws ParametrosInvalidosException {
-            if(parametroUm > parametroDois) {
-                throw new ParametrosInvalidosException("O primeiro parâmetro não pode ser maior que o segundo.");
-            }
-            int contagem = parametroDois - parametroUm;
-            for (int valor = 0; valor < contagem; valor++) {
-                System.out.println("Imprimindo o número: " + valor);
+
+    static void contar(int parametroUm, int parametroDois) throws ParametrosInvalidosException {
+        if(parametroUm > parametroDois) {
+            throw new ParametrosInvalidosException("O primeiro parâmetro não pode ser maior que o segundo.");
+        }
+        int contagem = parametroDois - parametroUm;
+        for (int valor = 0; valor < contagem; valor++) {
+            System.out.println("Imprimindo o número: " + valor);
         }
     } 
 }       
