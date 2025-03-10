@@ -31,7 +31,7 @@ Este é um projeto simples que desenvolvi durante a participação do *Bootcamp 
     [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?logo=eclipse&logoColor=white&style=for-the-badge&height=40)](https://www.eclipse.org/)
     [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge&height=40)](https://code.visualstudio.com/)
 
-3. Execute a **Classe Contador**.
+3. Execute o código na IDE.
 4. Insira os parâmetros solicitados no terminal.
 
 ---
